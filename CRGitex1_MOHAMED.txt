@@ -1,0 +1,27 @@
+1. mkdir Projet
+cd Projet
+git init
+
+2. git add CRGitex1_MOHAMED.txt
+
+3. echo "CRGitex1_MOHAMED.txt" >> .gitignore
+echo "*.a" >> .gitignore
+
+4. git add fich1.c
+git status
+
+5. git commit -m "ajout 1"
+
+6. git add fich[23]*
+
+7. git commit -m "ajout 2"
+git status
+
+8. git log
+
+9. nano fich1.c
+
+10. git diff
+
+11. git log
+
